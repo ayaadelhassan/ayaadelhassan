@@ -18,6 +18,6 @@ I'm a proactive and motivated computer engineer student <a href="http://eng.cu.e
   
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="www.linkedin.com/in/aya-adel-834a17175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayaadel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayaadelhassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayaadel" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ayaadelhassandarweesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayaadelhassandarweesh" height="30" width="40" /></a>
 </p>
